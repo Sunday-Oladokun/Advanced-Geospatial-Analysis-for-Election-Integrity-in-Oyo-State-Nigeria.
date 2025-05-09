@@ -5,7 +5,7 @@ This project utilizes geospatial analysis, statistical modeling, and machine lea
 ## Key Objectives
 
 * Detect statistical outliers in voting results using spatial autocorrelation measures.
-*    
+ 
 * Identify geographic clusters of irregularities through DBSCAN clustering.
    
 * Validate anomalies using machine learning (Isolation Forest).
