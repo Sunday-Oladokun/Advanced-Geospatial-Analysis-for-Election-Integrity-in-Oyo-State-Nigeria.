@@ -32,7 +32,7 @@ Key deliverables include:
    
 * Prioritized list of high-risk polling units.
    
-* Interactive dashboard for visualizing clusters and anomalies.
+* Interactive dashboard for visualizing clusters and anomalies : (https://app.powerbi.com/view?r=eyJrIjoiYzNkZWU1ODEtZTI0Ni00MGE1LThmMjQtOGFmMzFjN2RiMDRkIiwidCI6ImFlNmEwMjQwLTRkMmUtNDI4My1hZjFkLWI0MDZkNDg4MDg0YyIsImMiOjh9)
    
 * Analytical report with findings and recommendations.
 
